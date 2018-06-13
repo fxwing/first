@@ -12,7 +12,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.0.8",
-	"appid": "wx3e1c43af939ed19f",
+	"appid": "touristappid",
 	"projectname": "wxapp-mi-mall",
 	"isGameTourist": false,
 	"condition": {
